@@ -1,0 +1,1 @@
+ new compute functions in LAMMPS to calculate properties of polymer on the fly of simulation, used in my publication of [Physical Review Letters 129 (5), 057801]
